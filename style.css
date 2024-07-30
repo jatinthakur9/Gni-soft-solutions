@@ -1,0 +1,71 @@
+
+
+.karla{
+  font-family:"Karla", sans-serif;
+  font-optical-sizing: auto;
+  
+  font-style: normal;
+}
+.nnn{
+    height: 77px;
+    width: 200px !important;
+}
+
+.nnn1{
+
+    color: black !important;
+    font-weight: 650 !important;
+    font-family: karla;
+    font-size: 18px !important;
+    margin-right: 30px;
+}
+
+
+
+.p2{
+  height: 750px;
+  background: linear-gradient( to right bottom ,  #eb1a44 ,  #4f496c);
+
+}
+
+
+.nnn2{
+
+  color: white !important;
+  font-weight: 700 !important;
+  font-family: karla;
+  font-size: 71px !important;
+  
+}
+.nnn3{
+
+  color: white !important;
+  font-weight: 400 !important;
+  font-family: karla;
+  font-size: 19px !important;
+  
+}
+
+
+
+.nnn4{
+  color: white;
+  border-color: white;
+     padding-left: 40px;
+     padding-right: 40px;
+     padding-top: 10px;
+     padding-bottom: 10px;
+     
+   background-color: transparent;
+  font-weight: 650 !important;
+  font-family: karla;
+  font-size: 18px !important;
+  margin-right: 30px;
+}
+
+
+
+/* parent 3 starts here  */
+
+
+/* parent 3 ends here */
