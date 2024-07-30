@@ -23,7 +23,7 @@
 
 
 .p2{
-  height: 750px;
+
   background: linear-gradient( to right bottom ,  #eb1a44 ,  #4f496c);
 
 }
@@ -50,7 +50,7 @@
 
 .nnn4{
   color: white;
-  border-color: white;
+  border:2px solid white !important; 
      padding-left: 40px;
      padding-right: 40px;
      padding-top: 10px;
@@ -67,5 +67,203 @@
 
 /* parent 3 starts here  */
 
+ .nnn5{
+  background-color: #ffffff;
+
+
+ }
+
+ .nnn6{
+ background-color: #fafafa;
+  
+
+ }
+
+ .nnn7{
+  color: #fe2a57;
+  font-family: karla;
+  font-weight: bold;
+ }
+
+ .nnn8{
+  color: black;
+  font-family: karla;
+  font-weight: bolder;
+  font-size: 35px;
+ }
+
+ 
+ .nnn9{
+
+  color: #84888b;
+  font-family: karla;
+  font-weight: bolder;
+  font-size: 18px;
+ }
+
+ .nnn10{
+
+  color: #585a5b;
+  font-family: karla;
+  font-weight: 400;
+  font-size: 18px;
+ }
+
+ .nnn11{
+
+  color: #323850;
+  font-family: karla;
+  font-weight: bolder;
+  font-size: 30px;
+ }
+
+ .nnn12{
+
+  background: linear-gradient(   rgba(100, 214, 125, 0.667) ,  #04c832);
+  
+ }
+ .nnn13{
+
+  background: linear-gradient(   rgba(222, 70, 4, 0.667) ,  #df9a55);
+  
+ }
+ .nnn14{
+
+  background: linear-gradient(   rgba(4, 131, 140, 0.667) ,  #04c832);
+  
+ }
+
+
+
+
+
+
+
+.mantwo{
+  background-color: #180d5b;
+  width: 100%;
+}
 
 /* parent 3 ends here */
+
+
+
+/* parent 4 starts here  */
+
+.nnn15{
+  background-color: #f5f5f5;
+}
+
+
+.nnn16{
+  color: #bcb9b6;
+  font-size: 19px;
+  font-family: karla;
+}
+
+.nnn17{
+  color: black;
+  font-size: 35px;
+  font-family: karla;
+  font-weight: bold;
+}
+
+
+.nnn18{
+  color: black;
+  font-size: 15px;
+  font-family: karla;
+  
+}
+
+
+.nnn19{
+  height: 64px;
+  width: 80px !important;
+  
+ 
+
+}
+
+.nnn20{
+  font-family: karla;
+  
+  
+
+}
+
+.nnn21{
+  font-family: karla;
+  font-size: 19px;
+  
+  
+
+}
+
+.nnn22{
+  font-family: karla;
+  color:#eb1a44;
+  font-weight: bolder;
+  font-size: 20px
+  
+
+}
+/* parent 4 ends here  */
+
+
+
+
+
+/* parent 5 starts here  */
+
+
+.nnn23{
+  background: linear-gradient( 45deg,#4c4a6d, #d91f48);
+}
+
+
+.nnn24{
+  font-family: karla;
+  font-size: 20px;
+}
+
+
+.nnn25{
+  font-family: karla;
+
+  font-size: 38px;
+  font-weight: bolder;
+}
+
+
+.nnn26{
+  background: linear-gradient( 45deg,#d91f48, #4c4a6d);
+  height: 60px;
+  border-radius: 0%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  justify-content: space-around;
+}
+
+
+.nnn27{
+  background-color: transparent !important;
+  color: white !important;
+  border: solid  black 2px;
+}
+
+
+.nnn27:hover{
+  background-color: #f2295b !important;
+  border: solid 2px;
+}
+/* parent 5 ends here  */
+
+
+
+
+/* parent 6 starts here */
+
+
+/* parent 6 ends here */
