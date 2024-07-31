@@ -266,4 +266,90 @@
 /* parent 6 starts here */
 
 
+.nnn28{
+  text-align: justify;
+  color: black;
+  font-family: karla;
+  font-weight: bolder;
+  font-size: 30px;
+ }
+
+
+ .nnn29{
+  text-align: justify;
+  color: #585a5b;
+  font-family: karla;
+  font-weight: 400;
+  font-size: 18x;
+ }
+
+
+
+ .nnn30{
+  border:  solid #ff4867 ;
+  border-width: 4px !important;
+ }
+
+ .nnn31{
+  color: #ff4867;
+  text-align: center;
+  font-family: karla;
+  font-size: 30px;
+  font-weight: bolder;
+
+ }
+
+ .nnn32{
+  
+  color: #858585;
+  text-align: center;
+  font-family: karla;
+  font-size: 15px;
+  font-weight: bolder;
+
+ }
+
+
+
+
+
+
+
+
+
+
+
+
+
 /* parent 6 ends here */
+
+
+
+/* parent 7 starts here */
+.nnn33{
+  background: linear-gradient( 45deg,#d91f48, #4c4a6d);
+}
+/* parent 7 ends here */
+
+
+
+/* parent 8 starts here  */
+.nnn34{
+  margin-top: -40px;
+}
+
+.nnn35{
+  margin-top: -100px;
+}
+
+.nnn36{
+  margin-top: -80px;
+}
+/* parent 8 ends here */
+
+
+
+/* parent 10 starts here */
+
+
+/* parent  10 ends here */
