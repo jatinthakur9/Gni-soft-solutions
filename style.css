@@ -352,4 +352,69 @@
 /* parent 10 starts here */
 
 
+.nnn37{
+  background-image: url(money-bg.png);
+}
+.nnn38{
+  width: 14% !important;
+  color: white;
+  border:2px solid white !important; 
+    padding-top: 5px;
+    padding-bottom: 5px;
+     
+   background-color: #404e71;
+  font-weight: 650 !important;
+  font-family: karla;
+  font-size: 18px !important;
+  
+}
+
 /* parent  10 ends here */
+
+
+
+
+/* parent 11 starts here  */
+
+
+.nnn39{
+
+  background-color: #ec1944;
+  padding-top: 30px;
+  padding-bottom: 30px;
+}
+
+
+.nnn40{
+       font-size: 22px;
+ 
+  color: white;
+}
+/* parent 11 ends here */
+
+
+
+
+/* parent 12 starts here */
+
+.nnn41{
+
+  background-image: url(footer-bg.png);
+  background-color: #404e71;
+}
+
+/* parent 12 ends here */
+
+
+/* parent 13 starts here */
+
+
+.nnn42{
+  background-color: #0d2352;
+  padding-top: 30px;
+  padding-bottom: 30px
+}
+/* parent 13 ends here */
+
+
+
