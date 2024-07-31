@@ -331,8 +331,70 @@
 }
 /* parent 7 ends here */
 
+/* porfolio section */
+  .box1{
+    height: 600px !important;
+    background-image: url(1.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    transition: 1s !important;
+  }
+
+  
+
+  .box1:hover,.box1:active{
+    background-position: bottom;
+  }
+
+  .box2{
+    height: 600px !important;
+    background-image: url(2.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    transition: 2s !important;
+  }
+  .box2:hover,.box2:active{
+    background-position: bottom;
+  }
+
+  .box3{
+    height: 600px !important;
+    background-image: url(3.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    transition: 2s !important;
+  }
 
 
+  .box3:hover,.box3:active{
+    background-position: bottom;
+  }
+  .box4{
+    height: 600px !important;
+    background-image: url(4.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    transition: 2s !important;
+  }
+
+
+
+  .box4:hover,.box4:active{
+    background-position: bottom;
+  }
+
+  .box5{
+    height: 600px !important;
+    background-image: url(5.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    transition: 2s !important;
+  }
+
+
+  .box5:hover,.box5:active{
+    background-position: bottom;
+  }
 /* parent 8 starts here  */
 .nnn34{
   margin-top: -40px;
